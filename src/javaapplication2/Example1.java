@@ -17,6 +17,7 @@ public class Example1 {
     public static void main(String[] args) {
         // TODO code application logic here
         int number1 = 0;
+        int number = 2;
     }
     
 }
